@@ -1,5 +1,10 @@
 # projects
 
+########################NOTE#########################
+The following program is not currently fuctional due to API changes at Voi.
+
+
+
 WHAT'S IT ALL ABOUT
 
 *VoiUpdate2020WORKdev*      ! ! ! WORK IN PROGRESS ! ! !
